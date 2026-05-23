@@ -365,3 +365,4 @@ FodyWeavers.xsd
 /RTWeekend/RTWeekend.vcxproj.filters
 /RTWeekend/RTWeekend.vcxproj
 /RTWeekend/image.ppm
+.vscode/tasks.json
